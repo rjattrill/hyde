@@ -3,8 +3,8 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
-relative_permalinks: true
+permalink:            pretty
+relative_permalinks:  true
 
 # Setup
 title:            Ulrich's Place
@@ -14,13 +14,13 @@ url:              http://hyde.getpoole.com
 baseurl:          /hyde/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Ross Attrill'
+  url:            https://www.instagram.com/rjattrill/
 
 paginate:         5
 
 # Custom vars
 version:          2.1.0
 
-github:
-  repo:           https://github.com/poole/hyde
+#github:
+#  repo:           https://github.com/poole/hyde
