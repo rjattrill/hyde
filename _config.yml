@@ -10,7 +10,7 @@ title:            Ulrich Says
 tagline:          'Life matters'
 description:      'This is where Ross (aka) Ulrich writes about important and not so important life matters.'
 #url:              http://hyde.getpoole.com
-baseurl:          https://rjattrill.github.io/hyde/
+baseurl:          https://rjattrill.github.io/life/
 
 author:
   name:           'Ross Attrill'
