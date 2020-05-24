@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Terrace House&#003A; Tokyo 2019-2020 -<br/> Everything you ever needed to know about men and women. 
+title: Terrace House &#003A; Tokyo 2019-2020 - <br/> Everything you ever needed to know about men and women. 
 ---
 
 Everything you have ever needed to know about men and women and the relationships between them is explained in 
